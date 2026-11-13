@@ -1,0 +1,15 @@
+{
+  "lesson": 21,
+  "title": "Using Web Search with Claude",
+  "application": "Source-Checked Web Research",
+  "purpose": "Separate dated offline source fixtures from live WebSearch/WebFetch research and require a source for each claim.",
+  "exercise": "Change the question to a current product detail. In live mode inspect the returned source and publication date manually.",
+  "source_topics": [
+    "01-Know-When-Web-Search-Helps.png",
+    "02-Configure-Search-and-Page-Fetching.png",
+    "03-Ask-a-Researchable-Question.png",
+    "04-Evaluate-Sources-Before-Summarizing.png",
+    "05-Attach-Evidence-to-Each-Claim.png",
+    "06-Run-a-Focused-Web-Research-Agent.png"
+  ]
+}

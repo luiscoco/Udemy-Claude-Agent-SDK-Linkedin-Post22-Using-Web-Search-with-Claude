@@ -1,0 +1,11 @@
+{
+  "question": "Where are the official Python Agent SDK installation instructions?",
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://github.com/anthropics/claude-agent-sdk-python",
+      "excerpt": "The Python package is installed with pip install claude-agent-sdk.",
+      "fixture_date": "2026-01-15"
+    }
+  ]
+}

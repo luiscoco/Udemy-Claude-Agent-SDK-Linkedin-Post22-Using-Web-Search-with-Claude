@@ -1,0 +1,15 @@
+{
+  "lesson": 21,
+  "application": "Source-Checked Web Research",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "finding": {
+      "claim": "Install the Python package with pip.",
+      "url": "https://github.com/anthropics/claude-agent-sdk-python",
+      "verified_live": false
+    },
+    "mode_note": "Dated local source fixture; no web request was made"
+  },
+  "measured_cost_usd": null
+}
